@@ -54,5 +54,9 @@ https://www.youtube.com/
 
 ---
 
-###Tecnologías utilizadas  
-
+### Tecnologías utilizadas  
+-Backend: C++, Java, Python y Go para procesamiento de alto rendimiento.
+-Frontend: HTML5, TypeScript, React y Polymer para la interfaz de usuario.
+-Infraestructura: Google Cloud Platform, Kubernetes, sistemas de CDN global.
+-Base de datos: Bigtable y Spanner para almacenamiento masivo.
+-Machine Learning: Algoritmos de recomendación basados en TensorFlow.
