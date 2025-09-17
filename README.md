@@ -1,9 +1,7 @@
 # DI  
 ## README youtube  
-![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO)  
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OWNER/REPO)  
-![GitHub license](https://img.shields.io/github/license/OWNER/REPO)  
+![Estado](https://img.shields.io/badge/STATUS-en%20curso-green)
+![Licencia](https://img.shields.io/badge/license-MIT-blue)  
 ![Logo de Youtube](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
 
 ---
