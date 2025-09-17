@@ -38,7 +38,7 @@ YouTube se encuentra en desarrollo y operación continua, con nuevas funciones l
 
 ### Demostración de Funciones y Aplicaciones  
 #### Interfaz principal  
-![Interfaz de YouTube](Captura de pantalla 2025-09-17 103940.png)
+![Interfaz de YouTube]("C:\Users\edupl\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2025-09-17 103940.png")
 
 #### Principales Funcionalidades
 - **Búsqueda avanzada** de videos por título, tema o creador.  
