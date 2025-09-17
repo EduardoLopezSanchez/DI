@@ -23,7 +23,7 @@
 Su misión es **dar voz a todos y mostrar el mundo**, ofreciendo un espacio abierto para la expresión creativa, la educación y el entretenimiento.
 
 Entre sus principales características:
-- Reproducción de videos en streaming a gran escala.
+- Reproducción de videos en streaming a gran escala.  
 - Sistemas de recomendación personalizados.
 - Monetización para creadores de contenido.
 - Soporte para transmisión en vivo (*livestreaming*).
@@ -55,8 +55,8 @@ https://www.youtube.com/
 ---
 
 ### Tecnologías utilizadas  
--Backend: C++, Java, Python y Go para procesamiento de alto rendimiento.
--Frontend: HTML5, TypeScript, React y Polymer para la interfaz de usuario.
--Infraestructura: Google Cloud Platform, Kubernetes, sistemas de CDN global.
--Base de datos: Bigtable y Spanner para almacenamiento masivo.
--Machine Learning: Algoritmos de recomendación basados en TensorFlow.
+-Backend: C++, Java, Python y Go para procesamiento de alto rendimiento.  
+-Frontend: HTML5, TypeScript, React y Polymer para la interfaz de usuario.  
+-Infraestructura: Google Cloud Platform, Kubernetes, sistemas de CDN global.  
+-Base de datos: Bigtable y Spanner para almacenamiento masivo.  
+-Machine Learning: Algoritmos de recomendación basados en TensorFlow.  
