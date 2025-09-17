@@ -15,4 +15,34 @@
 [5.Tecnologías utilizadas;](#Tecnologías-utilizadas)  
 [6.Personas Contribuyentes;](#Personas-Contribuyentes)  
 [7.Personas Desarrolladoras del Proyecto;](#Personas-Desarrolladoras-del-Proyecto)  
-[8.Licencia.](#Licencia)
+[8.Licencia.](#Licencia)  
+---
+
+### Descripción del Proyecto
+**YouTube** es una plataforma global de distribución de video que permite a usuarios de todo el mundo **crear, subir, compartir y consumir contenido audiovisual**.  
+Su misión es **dar voz a todos y mostrar el mundo**, ofreciendo un espacio abierto para la expresión creativa, la educación y el entretenimiento.
+
+Entre sus principales características:
+- Reproducción de videos en streaming a gran escala.
+- Sistemas de recomendación personalizados.
+- Monetización para creadores de contenido.
+- Soporte para transmisión en vivo (*livestreaming*).
+
+---
+
+### Estado del Proyecto
+**Activo y en evolución constante**  
+YouTube se encuentra en desarrollo y operación continua, con nuevas funciones lanzadas regularmente para millones de usuarios en todo el mundo.
+
+---
+
+### Demostración de Funciones y Aplicaciones
+#### Interfaz principal
+![Interfaz de YouTube](https://user-images.githubusercontent.com/00000000/youtube-home-mockup.png)
+
+#### Principales Funcionalidades
+- **Búsqueda avanzada** de videos por título, tema o creador.
+- **Suscripciones** a canales para seguir contenidos favoritos.
+- **Listas de reproducción** personalizadas.
+- **YouTube Live** para transmisiones en tiempo real.
+- **YouTube Shorts** para videos cortos de formato vertical.
