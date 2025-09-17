@@ -46,3 +46,13 @@ YouTube se encuentra en desarrollo y operación continua, con nuevas funciones l
 - **Listas de reproducción** personalizadas.
 - **YouTube Live** para transmisiones en tiempo real.
 - **YouTube Shorts** para videos cortos de formato vertical.
+
+---
+
+### Acceso al Proyecto  
+https://www.youtube.com/
+
+---
+
+###Tecnologías utilizadas  
+
