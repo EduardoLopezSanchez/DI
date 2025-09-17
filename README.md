@@ -2,7 +2,6 @@
 ## README youtube  
 ![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/youtube-data-explorer)
 ![GitHub contributors](https://img.shields.io/github/contributors/tu-usuario/youtube-data-explorer)
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario/youtube-data-explorer?style=social)
 ![GitHub license](https://img.shields.io/github/license/tu-usuario/youtube-data-explorer)
 ![GitHub issues](https://img.shields.io/github/issues/tu-usuario/youtube-data-explorer)  
 ![Logo de Youtube](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
