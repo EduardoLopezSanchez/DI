@@ -38,7 +38,9 @@ YouTube se encuentra en desarrollo y operación continua, con nuevas funciones l
 
 ### Demostración de Funciones y Aplicaciones  
 #### Interfaz principal  
-![Interfaz de YouTube]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fledmon.com%2Fla-nueva-interfaz-de-youtube-para-escritorio%2F&psig=AOvVaw15LAOAbfZBJNFQHcBfB5Al&ust=1758713961383000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODm15rm7o8DFQAAAAAdAAAAABAE")
+![Interfaz de YouTube]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xataka.com.mx%2Fservicios%2Fyoutube-estrenara-interfaz-web-miniaturas-grandes-agregar-a-cola-fin-podremos-eliminar-canales-que-nos-sugieren&psig=AOvVaw15LAOAbfZBJNFQHcBfB5Al&ust=1758713961383000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODm15rm7o8DFQAAAAAdAAAAABAM")
+
+---
 
 #### Principales Funcionalidades
 - **Búsqueda avanzada** de videos por título, tema o creador.  
