@@ -38,7 +38,7 @@ YouTube se encuentra en desarrollo y operación continua, con nuevas funciones l
 
 ### Demostración de Funciones y Aplicaciones  
 #### Interfaz principal  
-![Interfaz de YouTube]("https://i0.wp.com/www.puntogeek.com/wp-content/uploads/2011/11/nueva-interfaz-youtube.jpg?resize=600%2C412")
+![Interfaz de YouTube]("https://ledmon.com/wp-content/uploads/2020/04/inicio-1024x575.png")
 
 ---
 
