@@ -39,7 +39,7 @@ YouTube se encuentra en desarrollo y operación continua, con nuevas funciones l
 ### Demostración de Funciones y Aplicaciones  
 #### Interfaz principal  
 
-![Interfaz de YouTube]("https://ledmon.com/wp-content/uploads/2020/04/inicio-1024x575.png")
+![Interfaz de YouTube]([https://ledmon.com/wp-content/uploads/2020/04/inicio-1024x575.png](https://storage.googleapis.com/support-forums-api/attachment/thread-15807278-7826161162953649674.PNG))
 
 ---
 
